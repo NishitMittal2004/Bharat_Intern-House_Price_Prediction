@@ -11,6 +11,7 @@ The Boston Housing dataset is a well-known dataset in the field of machine learn
 # Requirements
 ##### To run the code in this repository, you need:
 * Python 3.x
+* numpy
 * pandas
 * scikit-learn
 * matplotlib (for visualization)
